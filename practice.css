@@ -1,0 +1,84 @@
+#top{
+    font-family: 'Akronim', cursive;
+    text-align: center
+}
+
+#first{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    font-size: xx-large
+    
+}
+
+#second{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    font-size: xx-large
+    
+}
+
+#third{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    font-size: xx-large
+    
+}
+
+
+div.clearfix * {
+    box-sizing: border-box;
+  }
+  
+  .img-container {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+  .clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+  div.clearfix2 * {
+    box-sizing: border-box;
+  }
+  
+  .img-container {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+  .clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+  div.clearfix3 * {
+    box-sizing: border-box;
+  }
+  
+  .img-container {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+  .clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  
+
+body{
+    background-color: darkolivegreen}
